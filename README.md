@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Url](https://github.com/Gloryjaw/FAQ-accordion-page/)
+- Live Site URL: [Live site](https://your-live-site-url.com](https://bespoke-crepe-04e58f.netlify.app/)
 
 ## My process
 
