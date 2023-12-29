@@ -47,8 +47,8 @@ Users should be able to:
 - Svelte js framework
 
 
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gloryjaw)
+## Author
+- Frontend Mentor - [@Gloryjaw](https://www.frontendmentor.io/profile/gloryjaw)
 
 
 
